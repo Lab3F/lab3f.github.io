@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lab3f.github.io/sitemap.xml
